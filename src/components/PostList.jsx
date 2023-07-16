@@ -10,7 +10,13 @@ const PostList = () => {
     }, 500);
   }, []);
   return (
-    <div>
+    <div
+      style={{
+        display: "flex",
+        flexWrap: "wrap",
+        columnGap: "5%",
+      }}
+    >
       {posts.length > 0 ? (
         posts.map((item) => <PostItem item={item} key={item.id} />)
       ) : (

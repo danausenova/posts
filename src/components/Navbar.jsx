@@ -14,7 +14,10 @@ import MenuItem from "@mui/material/MenuItem";
 import AdbIcon from "@mui/icons-material/Adb";
 import { Link } from "react-router-dom";
 
-const pages = [{ title: "Home", link: "/" }];
+const pages = [
+  { title: "Список постов", link: "/" },
+  { title: "Обо мне", link: "/" },
+];
 const settings = ["Profile", "Account", "Dashboard", "Logout"];
 
 function Navbar() {
@@ -37,10 +40,10 @@ function Navbar() {
   };
 
   return (
-    <AppBar position="static">
+    <AppBar position="static" sx={{ bgcolor: "red" }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
-          <AdbIcon sx={{ display: { xs: "none", md: "flex" }, mr: 1 }} />
+          {/* <AdbIcon sx={{ display: { xs: "none", md: "flex" }, mr: 1 }} /> */}
           <Typography
             variant="h6"
             noWrap
@@ -56,7 +59,7 @@ function Navbar() {
               textDecoration: "none",
             }}
           >
-            LOGO
+            POST
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
@@ -114,7 +117,7 @@ function Navbar() {
               textDecoration: "none",
             }}
           >
-            LOGO
+            POST
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
             {pages.map((page, index) => (
