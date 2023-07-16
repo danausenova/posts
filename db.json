@@ -1,0 +1,455 @@
+{
+  "posts": [
+    {
+      "_id": "bfNpGC2NI",
+      "author": "Thomas Edison",
+      "content": "As a cure for worrying, work is better than whisky.",
+      "tags": ["Humorous"],
+      "authorSlug": "thomas-edison",
+      "length": 51,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "ghVnmSpeAo",
+      "author": "Thomas Edison",
+      "content": "Everything comes to him who hustles while he waits.",
+      "tags": ["Success", "Motivational"],
+      "authorSlug": "thomas-edison",
+      "length": 51,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "_92j6kAvwd",
+      "author": "Thomas Edison",
+      "content": "I never did a day's work in my life.  It was all fun.",
+      "tags": ["Humorous"],
+      "authorSlug": "thomas-edison",
+      "length": 53,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "RTYhCs5Ka",
+      "author": "Charles Dickens",
+      "content": "I do not know the American gentleman, god forgive me for putting two such words together.",
+      "tags": ["Humorous"],
+      "authorSlug": "charles-dickens",
+      "length": 89,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "RKl9iZrjfP",
+      "author": "Charles Dickens",
+      "content": "We need never be ashamed of our tears.",
+      "tags": ["Sadness"],
+      "authorSlug": "charles-dickens",
+      "length": 38,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "_EC8bhSDQa",
+      "author": "Charles Dickens",
+      "content": "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.",
+      "tags": ["Weakness"],
+      "authorSlug": "charles-dickens",
+      "length": 102,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "j7W6pP1XiG",
+      "author": "Charles Dickens",
+      "content": "Train up a fig tree in the way it should go, and when you are old sit under the shade of it.",
+      "tags": ["Age", "Wisdom"],
+      "authorSlug": "charles-dickens",
+      "length": 92,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "qF9iB6wrCQ",
+      "author": "Charles Dickens",
+      "content": "Subdue your appetites, my dears, and you've conquered human nature.",
+      "tags": [],
+      "authorSlug": "charles-dickens",
+      "length": 67,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "btV2j1uf2t",
+      "author": "Thomas Edison",
+      "content": "Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.",
+      "tags": ["Religion"],
+      "authorSlug": "thomas-edison",
+      "length": 120,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "QfeIDluRi_",
+      "author": "Thomas Edison",
+      "content": "There is no expedient to which a man will not go to avoid the labor of thinking.",
+      "tags": ["Work"],
+      "authorSlug": "thomas-edison",
+      "length": 80,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "as0ElEk5g7",
+      "author": "Charles Dickens",
+      "content": "No one is useless in this world who lightens the burdens of another.",
+      "tags": ["Generosity"],
+      "authorSlug": "charles-dickens",
+      "length": 68,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "jQHjwwHpLN",
+      "author": "Thomas Edison",
+      "content": "Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.",
+      "tags": ["Success", "Failure", "Perseverance"],
+      "authorSlug": "thomas-edison",
+      "length": 98,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "R1DmP1kYtW",
+      "author": "Charles Dickens",
+      "content": "Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.",
+      "tags": ["Gratitude"],
+      "authorSlug": "charles-dickens",
+      "length": 121,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "niVz2fQWSH",
+      "author": "Thomas Edison",
+      "content": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+      "tags": ["Opportunity", "Work"],
+      "authorSlug": "thomas-edison",
+      "length": 91,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "ijc0sPlYFd",
+      "author": "Thomas Edison",
+      "content": "The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease.",
+      "tags": ["Health", "Wellness"],
+      "authorSlug": "thomas-edison",
+      "length": 179,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "BzfxvRlA2Y",
+      "author": "Thomas Edison",
+      "content": "We don't know a millionth of one percent about anything.",
+      "tags": ["Knowledge"],
+      "authorSlug": "thomas-edison",
+      "length": 56,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "XtZMaD2s28",
+      "author": "Thomas Edison",
+      "content": "If we all did the things we are capable of doing, we would literally astound ourselves.",
+      "tags": ["Inspirational", "Motivational"],
+      "authorSlug": "thomas-edison",
+      "length": 87,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "KMTJ0Ya3e9",
+      "author": "Thomas Edison",
+      "content": "To invent, you need a good imagination and a pile of junk.",
+      "tags": ["Imagination", "Creativity", "Science", "Technology"],
+      "authorSlug": "thomas-edison",
+      "length": 58,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "bZIw7gy0sR",
+      "author": "Thomas Edison",
+      "content": "I never did anything worth doing by accident, nor did any of my inventions come by accident",
+      "tags": ["Success", "Science"],
+      "authorSlug": "thomas-edison",
+      "length": 91,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "An5NAXPrbN",
+      "author": "Thomas Edison",
+      "content": "Hell, there are no rules here-- we're trying to accomplish something.",
+      "tags": [],
+      "authorSlug": "thomas-edison",
+      "length": 69,
+      "dateAdded": "2023-04-14",
+      "dateModified": "2023-04-14"
+    },
+
+    {
+      "_id": "evSH-AgPIXv",
+      "author": "The Buddha",
+      "content": "Both formerly and now, it is only suffering that I describe, and the cessation of suffering.",
+      "tags": ["Wisdom", "Happiness"],
+      "authorSlug": "the-buddha",
+      "length": 92,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "d4jauwhMpVA",
+      "author": "The Buddha",
+      "content": "Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.",
+      "tags": ["Wisdom", "Wisdom"],
+      "authorSlug": "the-buddha",
+      "length": 107,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "vvI7HzgTSh_",
+      "author": "The Buddha",
+      "content": "'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.",
+      "tags": ["Wisdom", "Virtue", "Honor"],
+      "authorSlug": "the-buddha",
+      "length": 118,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "0Lp0Xv7xP2D",
+      "author": "The Buddha",
+      "content": "You yourself must strive. The Buddhas only point the way.",
+      "tags": ["Wisdom", "Motivational"],
+      "authorSlug": "the-buddha",
+      "length": 57,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "E7Pt4hWgrH",
+      "author": "The Buddha",
+      "content": "All experiences are preceded by mind, having mind as their master, created by mind.",
+      "tags": ["Wisdom", "Self"],
+      "authorSlug": "the-buddha",
+      "length": 83,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "Gl_8IjYm3ny",
+      "author": "The Buddha",
+      "content": "It's a good thing to be satisfied with what one has.",
+      "tags": ["Wisdom", "Self Help"],
+      "authorSlug": "the-buddha",
+      "length": 52,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "-3IqRLv81t-",
+      "author": "The Buddha",
+      "content": "One is not called noble who harms living beings. By not harming living beings one is called noble.",
+      "tags": ["Wisdom", "Virtue"],
+      "authorSlug": "the-buddha",
+      "length": 98,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "6LX3h3UamO5",
+      "author": "The Buddha",
+      "content": "Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.",
+      "tags": ["Wisdom", "Character"],
+      "authorSlug": "the-buddha",
+      "length": 128,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "gI4gnBANili",
+      "author": "The Buddha",
+      "content": "We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it.",
+      "tags": ["Wisdom", "Love"],
+      "authorSlug": "the-buddha",
+      "length": 173,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "e-U_kGn45jq",
+      "author": "The Buddha",
+      "content": "To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.",
+      "tags": ["Wisdom", "Family"],
+      "authorSlug": "the-buddha",
+      "length": 136,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "XrFIHIebkEW",
+      "author": "The Buddha",
+      "content": "As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.",
+      "tags": ["Wisdom", "Philosophy"],
+      "authorSlug": "the-buddha",
+      "length": 140,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "aS2JIspazSE",
+      "author": "The Buddha",
+      "content": "They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.",
+      "tags": ["Wisdom"],
+      "authorSlug": "the-buddha",
+      "length": 156,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "bejpH5vesL0",
+      "author": "The Buddha",
+      "content": "Better than a thousand useless words is one useful word, upon hearing which one attains peace.",
+      "tags": ["Wisdom", "Character"],
+      "authorSlug": "the-buddha",
+      "length": 94,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "n7QR1DkeA4V",
+      "author": "The Buddha",
+      "content": "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.",
+      "tags": ["Wisdom", "Virtue", "Honor"],
+      "authorSlug": "the-buddha",
+      "length": 128,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "sD1d2QmwBJA",
+      "author": "The Buddha",
+      "content": "There is no fear for one whose mind is not filled with desires.",
+      "tags": ["Wisdom", "Philosophy"],
+      "authorSlug": "the-buddha",
+      "length": 63,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "6_rYXTe8c4S",
+      "author": "The Buddha",
+      "content": "May all beings have happy minds.",
+      "tags": ["Wisdom", "Happiness"],
+      "authorSlug": "the-buddha",
+      "length": 32,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "sT905eIjh2n",
+      "author": "The Buddha",
+      "content": "Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.",
+      "tags": ["Wisdom", "Virtue"],
+      "authorSlug": "the-buddha",
+      "length": 99,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "eOGgo5Kj2tu",
+      "author": "The Buddha",
+      "content": "When watching after yourself, you watch after others. When watching after others, you watch after yourself.",
+      "tags": ["Wisdom"],
+      "authorSlug": "the-buddha",
+      "length": 107,
+      "dateAdded": "2023-03-30",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "1mFyxKntETm",
+      "author": "Ayn Rand",
+      "content": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
+      "tags": ["Motivational"],
+      "authorSlug": "ayn-rand",
+      "length": 87,
+      "dateAdded": "2022-07-06",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "u88FH0TrZCH",
+      "author": "Thomas Jefferson",
+      "content": "I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.",
+      "tags": ["Business"],
+      "authorSlug": "thomas-jefferson",
+      "length": 193,
+      "dateAdded": "2022-07-06",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "MNoB9t3dfeS",
+      "author": "Shaquille O'Neal",
+      "content": "I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.",
+      "tags": ["Sports", "Humorous"],
+      "authorSlug": "shaquille-o-neal",
+      "length": 121,
+      "dateAdded": "2022-07-06",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "1gJ03696_R",
+      "author": "Benjamin Disraeli",
+      "content": "Never complain and never explain.",
+      "tags": ["Motivational"],
+      "authorSlug": "benjamin-disraeli",
+      "length": 33,
+      "dateAdded": "2022-07-06",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "Gtt0T3mfPbx",
+      "author": "Billie Jean King",
+      "content": "Champions keep playing until they get it right.",
+      "tags": ["Sports", "Competition"],
+      "authorSlug": "billie-jean-king",
+      "length": 47,
+      "dateAdded": "2022-07-06",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "I4MksjS5zey",
+      "author": "Carl Lewis",
+      "content": "Life is about timing.",
+      "tags": ["Sports", "Competition"],
+      "authorSlug": "carl-lewis",
+      "length": 21,
+      "dateAdded": "2022-07-06",
+      "dateModified": "2023-04-14"
+    },
+    {
+      "_id": "y1iv94PsONA",
+      "author": "Edward Gibbon",
+      "content": "Our work is the presentation of our capabilities.",
+      "tags": ["Business"],
+      "authorSlug": "edward-gibbon",
+      "length": 49,
+      "dateAdded": "2022-07-06",
+      "dateModified": "2023-04-14"
+    }
+  ]
+}
